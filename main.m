@@ -23,7 +23,6 @@ grid on;
 figure(2);
 plot(Y2(:,2), Y2(:,1), 'LineWidth', 2);
 xlabel('f');
-8
 ylabel('r');
 title('График для B');
 grid on;
